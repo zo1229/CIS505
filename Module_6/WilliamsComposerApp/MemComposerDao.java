@@ -1,3 +1,4 @@
+/*Williams, A., (2024).  CIS 505 Intermediate Java Programming.  Bellevue University.*/
 package Module_6.WilliamsComposerApp;
 
 import java.util.List;

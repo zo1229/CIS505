@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /*Williams, A., (2024).  CIS 505 Intermediate Java Programming.  Bellevue University.*/
+=======
+>>>>>>> 60cc484b006138f72ce6c382e174268baf11bafb
 package Module_3.Customer;
 
 class Customer {

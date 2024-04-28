@@ -1,3 +1,4 @@
+/*Williams, A., (2024).  CIS 505 Intermediate Java Programming.  Bellevue University.*/
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -10,7 +11,7 @@ public class WilliamsComposerApp {
         this.scanner = new Scanner(System.in);
     }
 
-    public void displayMenu() {
+    public static void main displayMenu() {
         System.out.println("Welcome to the Composer App");
         System.out.println("1. View Composers");
         System.out.println("2. Find Composer");
