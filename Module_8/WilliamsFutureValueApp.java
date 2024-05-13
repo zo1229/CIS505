@@ -1,13 +1,5 @@
-package Module_7;
-
-import javafx.application.Application;
-import javafx.geometry.HPos;
-import javafx.geometry.Pos;
-import javafx.scene.Scene;
-import javafx.scene.control.*;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.HBox;
-import javafx.stage.Stage;
+/*Williams, A., (2024).  CIS 505 Intermediate Java Programming.  Bellevue University.*/
+package Module_7.FutureValueApp;
 
 public class WilliamsFutureValueApp extends Application {
 
